@@ -1,1 +1,3 @@
-# Smart-Solar-Water-Heater-Valve-Control-System
+In today's world, efficient resource management of non-renewable using renewable resources  is crucial. This project aims to develop an automated water flow control system that utilizes various sensors and solenoid valves to ensure optimal water usage. The system leverages water level sensors to detect the status of the tank and temperature sensors to monitor the water temperature. 
+
+Additionally, a light-dependent resistor (LDR) is employed to determine daylight conditions, allowing the system to differentiate between day and night. By integrating these components, the project ensures that water is supplied only when necessary, preventing waste and promoting sustainable practices. The implementation of this automated system not only enhances the efficiency of water usage but also provides a reliable solution for managing water resources in various applications.
